@@ -1,0 +1,21 @@
+{
+  "name": "RepoAdı",
+  "description": "RepoBiosu",
+  "keywords": [
+    "telegram",
+    "best",
+    "group",
+    "manager",
+    "3"
+  ],
+  "repository": "https://github.com/BotFatheraz/crocoaz",
+  
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "10"
+      }
+    }
+  ]
+}
