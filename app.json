@@ -17,10 +17,6 @@
         "version": "13"
       }
     }
-  ]
-}
-
-{
   "buildpacks": [
     {
       "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
