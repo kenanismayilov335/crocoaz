@@ -1,6 +1,6 @@
 {
-  "name": "RepoAdı",
-  "description": "RepoBiosu",
+  "name": "crocoaz",
+  "description": "crocoaz",
   "keywords": [
     "telegram",
     "best",
@@ -8,7 +8,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/BotFatheraz/crocoaz",
+  "repository": "https://github.com/Abdulla034/crocoaz",
   
   "addons": [
     {
