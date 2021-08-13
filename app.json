@@ -14,14 +14,9 @@
     {
       "plan": "heroku-postgresql",
       "options": {
-        "version": "13"
+        "version": "10"
       }
     }
-  "buildpacks" [
-    {
-      "url": "https://github.com/heroku/heroku-buildpack-pgbouncer"
-    },
-    {
-      "url": "heroku/python"
-    }
   ]
+}
+  
